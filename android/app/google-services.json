@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "885544257878",
+    "project_id": "fir-islemleri-bc89b",
+    "storage_bucket": "fir-islemleri-bc89b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885544257878:android:63d1ec02e1ce6b87026ef7",
+        "android_client_info": {
+          "package_name": "com.example.firebase_islemleri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885544257878-gn740j3id90pfcogk1ur4q1p9j12948h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_islemleri",
+            "certificate_hash": "4e3987c7e65925991f9468425ea7c19c3ea5d453"
+          }
+        },
+        {
+          "client_id": "885544257878-ud7rdc90tsp6n1tk2cdjni23nnfinffk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJgEH0zXXlO8_hksjr3drqkbL0YxI6kds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885544257878-ud7rdc90tsp6n1tk2cdjni23nnfinffk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
